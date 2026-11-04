@@ -33,7 +33,7 @@ The R script needs `ForestTools`, `raster` and `rgdal`.
 
 ## Data
 
-Raw airborne LiDAR (2019 Metro LiDAR acquisition) was provided by the City of Portland Bureau of Environmental Services under a project-specific data request and is not redistributed here; request it from the original provider. The street and park tree inventories are published by the City of Portland. Derived tree metrics and training data will be shared separately.
+Raw airborne LiDAR (2019 Metro LiDAR acquisition) was provided by the City of Portland Bureau of Environmental Services under a project-specific data request and is not redistributed here; request it from the original provider. The street and park tree inventories are published by the City of Portland. Derived tree metrics, training data and ENVI-met model files are based on the restricted LiDAR and are available from the author on reasonable request.
 
 ## License
 
