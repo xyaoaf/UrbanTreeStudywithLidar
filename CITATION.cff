@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article below."
+title: "UrbanTreeStudywithLidar"
+authors:
+  - family-names: Yao
+    given-names: Xihan
+repository-code: "https://github.com/xyaoaf/UrbanTreeStudywithLidar"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Community-scale microclimate simulation using Airborne Laser Scanning and object-based urban tree classification"
+  authors:
+    - family-names: Yao
+      given-names: Xihan
+    - family-names: Kim
+      given-names: M.
+    - family-names: Dronova
+      given-names: Iryna
+    - family-names: McBride
+      given-names: J. R.
+    - family-names: Kondolf
+      given-names: G. M.
+    - family-names: Radke
+      given-names: J. D.
+  journal: "Landscape and Urban Planning"
+  volume: 263
+  start: 105420
+  year: 2025
+  doi: "10.1016/j.landurbplan.2025.105420"
